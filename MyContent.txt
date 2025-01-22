@@ -6,4 +6,3 @@ React is a JavaScript library for rendering user interfaces (UI). UI is built fr
   Traditionally when creating web pages, web developers marked up their content and then added interaction by sprinkling
    on some JavaScript. This worked great when interaction was a nice-to-have on the web. Now it is expected for many sites
     and all apps. React puts interactivity first while still using the same technology: a React component is a JavaScript 
-    function that you can sprinkle with markup.
