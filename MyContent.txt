@@ -1,0 +1,8 @@
+React is a JavaScript library for rendering user interfaces (UI). UI is built from small units like buttons, text,
+ and images. React lets you combine them into reusable, nestable components. From web sites to phone apps, everything on 
+ the screen can be broken down into components. In this chapter, you’ll learn to create, customize, and conditionally display
+  React components.
+
+  Traditionally when creating web pages, web developers marked up their content and then added interaction by sprinkling
+   on some JavaScript. This worked great when interaction was a nice-to-have on the web. Now it is expected for many sites
+    and all apps. React puts interactivity first while still using the same technology: a React component is a JavaScript 
