@@ -1,0 +1,6 @@
+Hello, World! 👋
+My name is tasneem Khan, and I’m currently an intern at IQPaths Technologies. I’m excited to explore Git and GitHub through this task and look forward to contributing to innovative projects.
+
+This file is part of my learning journey, where I’m honing my skills in version control, collaboration, and software development practices.
+
+Happy Coding! 🚀
